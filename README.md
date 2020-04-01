@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Demo
+
+![Demo](https://raw.githubusercontent.com/PonnamKarthik/FlutterInAppPIP/master/screenshots/video-pip-demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
